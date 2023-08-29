@@ -30,6 +30,7 @@ Make sure you have these libraries installed before running any scripts in this 
 
 ```bash
 pip install pandas numpy matplotlib nltk scikit-learn
+```
 
 
 ### Data
