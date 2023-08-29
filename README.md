@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib nltk scikit-learn
 
 
 ### Data
-<p>csv files</p>
+<p>2 csv files</p>
 <ul>
   <li>user-item-interactions.csv: Interactions between users and articles.</li>
   <li>articles_community.csv: Contents of articles.</li>
@@ -73,5 +73,5 @@ pip install pandas numpy matplotlib nltk scikit-learn
 - Assessing the effectiveness of predictions.
 - Discussing methods for further improvement and testing.
 
-### Reference
-Dataset is provided by <a href="https://www.udacity.com/">Udacity</a> and <a href="https://www.ibm.com/products/watson-studio">IBM Watson Studio</a>. 
+### Acknowledgement
+The dataset has been graciously provided by <a href="https://www.udacity.com/">Udacity</a> in collaboration with <a href="https://www.ibm.com/products/watson-studio">IBM Watson Studio</a>. Your access to this valuable data is made possible through their contribution.
