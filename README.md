@@ -1,9 +1,7 @@
-# Data Scientist Nanodegree Udacity
-## Recommendations With IBM project
+## Recommendation System Design With IBM Watson Studio
 
 ### Introduction
-<p>In this project we'll analyze the interactions that users have with articles on the IBM Watson Studio platform, 
- and make recommendations to them about new articles they'll like.</p>
+<p>Within IBM Watson Studio, there exists a vast collaborative community ecosystem encompassing a multitude of **articles**, datasets, notebooks, and other resources pertaining to Artificial Intelligence (AI) and Machine Learning (ML). Users have the opportunity to engage with these resources directly. With the aim of enhancing user experiences and facilitating seamless access to these resources, we have undertaken a recommendation system project. The objective of this project is to provide personalized recommendations for each user, thereby tailoring their experience according to their preferences. Our plan involves analyzing user interactions with articles on the IBM Watson Studio platform and subsequently suggesting new articles that align with their interests and preferences. Through this project, we aspire to enable users to effortlessly discover the wealth of resources available on the platform, thereby enhancing their overall usage experience.</p>
  
 ### Motivation
 For this project I will be looking at the interactions that users have with articles on the IBM Watson Studio platform. Below It can be seen an example of what the dashboard could look like displaying articles on the IBM Platform.
